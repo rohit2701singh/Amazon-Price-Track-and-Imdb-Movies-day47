@@ -86,14 +86,3 @@ dataframe = {
 
 data = pandas.DataFrame(dataframe)
 data.to_csv("bollywood_movies.csv", encoding="utf-8")
-
-
-
-
-
-
-
-
-
-
-
